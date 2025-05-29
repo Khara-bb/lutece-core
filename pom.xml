@@ -3,7 +3,7 @@
         <artifactId>lutece-global-pom</artifactId>
         <groupId>fr.paris.lutece.tools</groupId>
         <version>7.0.0</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -50,7 +50,7 @@
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
-            <version>1.9.4</version>
+            <version>1.11.0</version>
         </dependency>
         <!-- commons-digester deprecated, use commons-digester3 instead. To be removed in the future -->
         <!-- Not upgrading to 2.1 because for new projects we should use digester3, and for old projects -->
